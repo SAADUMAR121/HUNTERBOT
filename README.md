@@ -20,11 +20,11 @@
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/SAADUMAR121/fork"><img title="SAAD UMAR" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/SAADUMAR121/HUNTERBOT/fork"><img title="SAAD UMAR" src="https://img.shields.io/badge/FORK SAAD UMAR-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
     <br>
-<a href="https://abhishek-ser-web.vercel.app/"><img title="ABHISHEK-SER Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://abhishek-ser-web.vercel.app/"><img title="HUNTER Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE-h?color=black&style=for-the-badge&logo=msi"></a>
 
 
 
@@ -39,7 +39,7 @@
 ---
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/AbhishekSuresh2/ABHISHEK-SER/"><img title="HUNTER BOT Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/SAADUMAR121/HUNTERBOT/"><img title="HUNTER BOT Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ---
 ### Heroku Tutorial
