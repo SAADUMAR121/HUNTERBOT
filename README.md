@@ -12,8 +12,7 @@
 <p align="center">
 <a 
 
-####  
-SAAD UMAR Multi Device Whatsapp Bot.
+#### Hunter Multi Device Whatsapp Bot.
 
 ***
 
